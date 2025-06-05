@@ -9,7 +9,7 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayush8860) 
 
 ## 🧠 LeetCode Stats:
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ayush8860?theme=dark&font=Montserrat)](https://leetcode.com/ayush8860)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ayush7792?theme=dark&font=Montserrat)](https://leetcode.com/ayush8860)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
