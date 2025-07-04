@@ -1,9 +1,10 @@
 # 💫 About Me:
 🌱 I’m currently learning DSA <br>💬 Ask me about MERN stack<br>
 
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=ayush8860&label=Profile%20Views&color=0&icon=0&pretty=true" alt="profile views"/>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush8860&label=Profile%20views&color=0e75b6&style=flat" alt="ayush8860" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush8860" alt="ayush8860" /></a> </p>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@ayush8860) 
