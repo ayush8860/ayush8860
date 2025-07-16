@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Ayush Upadhyay</h1>
-<h3 align="center">🚀 MERN Stack Developer | ⚡ Real-time App Enthusiast | 📚 DSA Learner</h3>
+<h3 align="center">🚀 MERN Stack Developer | ⚡ Real-time App Enthusiast | 🧠 DSA Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=440&lines=Full+Stack+Developer;Socket.IO+Real-time+Apps;Open+Source+Contributor;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=500&lines=Full+Stack+Developer;Socket.IO+Real-time+Apps;Passionate+about+Data+Structures+%26+Algorithms;Let's+Build+Something+Awesome!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,8 +11,8 @@
 
 ---
 
-🌱 Currently learning **Data Structures and Algorithms**  
-🛠️ Building projects using **MERN Stack  
+🌱 Currently learning **Data Structures and Algorithms (DSA)**  
+🛠️ Building projects using **MERN Stack + Socket.IO**  
 💬 Ask me about **MongoDB, Express, React, Node.js, WebSockets**  
 🌐 Exploring tools like **Vite, Redux, Prisma, TailwindCSS, Docker**
 
